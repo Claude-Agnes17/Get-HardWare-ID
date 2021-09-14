@@ -1,0 +1,10 @@
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\bin\Debug\Get_HWID.exe.config
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\bin\Debug\Get_HWID.exe
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\bin\Debug\Get_HWID.pdb
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.csproj.AssemblyReference.cache
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.Form1.resources
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.Properties.Resources.resources
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.csproj.GenerateResource.cache
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.csproj.CoreCompileInputs.cache
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.exe
+C:\Users\김준성\source\repos\Get_HWID\Get_HWID\obj\Debug\Get_HWID.pdb
